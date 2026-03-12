@@ -60,6 +60,6 @@ Graduation: 2027
 
 ### 🌍 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/rawan-alii-nagy) | [GitHub](https://github.com/rawan-alii-nagy)  
+[LinkedIn](https://www.linkedin.com/in/rawan-ali-948978374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/rawan-alii-nagy)  
 
 *"Strive for progress, not perfection."* 🚀
