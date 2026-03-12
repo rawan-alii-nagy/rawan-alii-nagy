@@ -1,6 +1,5 @@
 Hi, I'm Rawan Ali 👋  
-🎓 Computer Science Student | Front-End & Data Enthusiast  
-🚀 Aspiring Software Developer | UI/UX & Python Projects  
+🎓 Computer Science Student  
 
 🌍 Based in Egypt
 
@@ -23,7 +22,7 @@ Hi, I'm Rawan Ali 👋
 - Built a mini AI project predicting hospital readmission using Python and Tkinter.  
 - Created small interactive web apps as part of coursework and personal projects.  
 
-**Internship / Labs (Optional)**  
+**Internship / Labs**  
 - Hands-on experience with Python, C++, and Java in academic projects.  
 - Implemented database management exercises using SQL and MongoDB.  
 
@@ -33,7 +32,7 @@ Hi, I'm Rawan Ali 👋
 
 **Bachelor of Computer Science**  
 Faculty of Computer and Information Sciences, Ain Shams University  
-Graduation: 2026  
+Graduation: 2027  
 
 ---
 
