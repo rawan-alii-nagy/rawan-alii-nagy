@@ -1,48 +1,66 @@
-<h1 align="center">Hi 👋 I'm Rawan Ali</h1>
-<h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
+Hi, I'm Rawan Ali 👋  
+🎓 Computer Science Student | Front-End & Data Enthusiast  
+🚀 Aspiring Software Developer | UI/UX & Python Projects  
 
-<p align="center">
-💻 Passionate about programming and problem solving  
-🎓 Computer Science student at Ain Shams University  
-🌱 Currently learning Front-End Development and Data Structures  
-🚀 Looking for Internship opportunities
-</p>
+🌍 Based in Egypt
 
 ---
 
-### 👩‍💻 About Me
+### 🔧 Technical Skills
 
-- 🎓 I'm a Computer Science student  
-- 💻 Interested in Software Development  
-- 🌱 Currently learning **Front-End & Algorithms**
-- 🔎 Looking for **Internship opportunities**
-- 📚 Always learning new technologies
-
----
-
-### 🛠️ Languages and Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,sql,git,github" />
-</p>
+**Programming & OOP:** Java, C++, Python, C#, HTML, CSS, JavaScript, TypeScript  
+**Front-End:** React, Angular, Styled Components, Sass  
+**Back-End & Databases:** Node.js, MongoDB, SQL  
+**Tools & Platforms:** Git, GitHub, Docker, GitHub Actions, VS Code  
+**Concepts:** Data Structures, Algorithms, Computer Architecture, Agile, System Design  
 
 ---
 
-### 📊 GitHub Stats
+### 💼 Experience
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rawan-alii-nagy&show_icons=true&theme=tokyonight"/>
-</p>
+**Front-End & UI/UX Projects**  
+- Developed responsive websites and UI components using React and Styled Components.  
+- Built a mini AI project predicting hospital readmission using Python and Tkinter.  
+- Created small interactive web apps as part of coursework and personal projects.  
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawan-alii-nagy&layout=compact&theme=tokyonight"/>
-</p>
+**Internship / Labs (Optional)**  
+- Hands-on experience with Python, C++, and Java in academic projects.  
+- Implemented database management exercises using SQL and MongoDB.  
 
 ---
 
-### 📫 Connect with Me
+### 📚 Education
 
-<p>
-<a href="https://github.com/rawan-alii-nagy">GitHub</a> |
-<a href="https://www.linkedin.com/">LinkedIn</a>
-</p>
+**Bachelor of Computer Science**  
+Faculty of Computer and Information Sciences, Ain Shams University  
+Graduation: 2026  
+
+---
+
+### 🛠️ Notable Projects
+
+**Hospital Readmission Prediction (Python & Tkinter)**  
+- Predicted re-admission of diabetic patients using machine learning models.  
+
+**UI/UX Mini Projects**  
+- Built interactive dashboards and web interfaces focusing on user experience.  
+
+**Front-End React Apps**  
+- Designed and implemented responsive React apps with RESTful APIs integration.  
+
+---
+
+### 📜 Certifications & Learning
+
+- Front-End Development Bootcamp (React, Angular, TypeScript)  
+- Data Structures & Algorithms in C++ & Java  
+- UI/UX Design Basics  
+- Python for Data Analysis  
+
+---
+
+### 🌍 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/rawan-alii-nagy) | [GitHub](https://github.com/rawan-alii-nagy)  
+
+*"Strive for progress, not perfection."* 🚀
